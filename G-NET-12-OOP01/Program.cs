@@ -62,7 +62,10 @@
             #endregion
 
             #region Q4 : What is a class library? Why do we use class libraries?
-        
+            // A class library is a collection of classes, interfaces, and methods that can be used by other applications.
+            // We use class libraries to promote code reuse, modularity, and maintainability.
+            // By creating a class library, we can encapsulate common functionality and share it across multiple projects.
+            // Class libraries also help in organizing code and separating concerns, making it easier to manage and update code in the future.
 
 
             #endregion
